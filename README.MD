@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.13-brightgreen?logo=springboot)
 ![MariaDB](https://img.shields.io/badge/MariaDB-10.11-orange?logo=mariadb)
-![JWT](https://img.shields.io/badge/JWT-Auth0-red?logo=jsonwebtokens)
+![JWT](https://img.shields.io/badge/JWT-Auth0-red?logo=jwt)
 ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-yellow?logo=swagger)
 
 Aplicação backend desenvolvida em **Spring Boot** para gerenciamento de eventos, usuários, conferências, sessões e inscrições.  
@@ -166,8 +166,8 @@ POST /change-password
 > 📘 O endpoint `/v3/api-docs` fornece a definição da API em JSON e é consumido automaticamente pelo Swagger UI — não é necessário acessá-lo diretamente.
 
 ## 📚 Documentação complementar
-- [Guia de Convenções](README_REPOSITORY_SERVICE_NAMING_CONVENTION.md)
-- [Guia de Security](README_SECURITY.md)
+- [Guia de Convenções](README_REPOSITORY_SERVICE_NAMING_CONVENTION.MD)
+- [Guia de Security](README_SECURITY.MD)
 
 
 ## 👨‍💻 Autor
